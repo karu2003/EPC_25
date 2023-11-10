@@ -5,7 +5,7 @@
   (paper "A4")
 
   (title_block
-    (title "EPC_25")
+    (title "KA30GAN")
     (rev "1.0")
     (company "IPM Group ©")
   )
@@ -649,7 +649,7 @@
     (pin "2" (uuid f491bca0-3342-4909-be83-58c215c5d604))
     (pin "3" (uuid 1214d7f6-07fc-4bc6-a014-06a28df39ed0))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "P1") (unit 1)
         )
@@ -743,7 +743,7 @@
     (pin "1" (uuid 3f5c6065-f04c-4e87-b25d-1d734359854c))
     (pin "2" (uuid f6c4051c-d4c1-44ce-b953-7a4c4786d548))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "C25") (unit 1)
         )
@@ -837,7 +837,7 @@
     (pin "1" (uuid 8cd62c28-56d7-44eb-8ad6-eb80839a2d0c))
     (pin "2" (uuid 5ee7f8c6-91ad-4ce0-8bfe-142afc0043fd))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "C24") (unit 1)
         )
@@ -867,7 +867,7 @@
     )
     (pin "" (uuid 3f201536-8dcd-49a8-9a36-ea704bcc3e9d))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR040") (unit 1)
         )
@@ -965,7 +965,7 @@
     (pin "8" (uuid 2371a002-6af0-466d-ab94-b7619f1e61b5))
     (pin "9" (uuid c297b7f7-3a78-4fb7-8a66-11bb153f7e07))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "U5") (unit 1)
         )
@@ -995,7 +995,7 @@
     )
     (pin "" (uuid aa61859b-d48a-4608-ac24-209a66c2ad4a))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR035") (unit 1)
         )
@@ -1025,7 +1025,7 @@
     )
     (pin "" (uuid a9828a96-3b2f-4604-9544-28327ecfd61e))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR033") (unit 1)
         )
@@ -1055,7 +1055,7 @@
     )
     (pin "" (uuid c6216f88-b550-4490-a1e0-16e4bedcc2fd))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR037") (unit 1)
         )
@@ -1085,7 +1085,7 @@
     )
     (pin "" (uuid 144a7ba3-63b3-47af-8958-30f05b48f84b))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR039") (unit 1)
         )
@@ -1115,7 +1115,7 @@
     )
     (pin "" (uuid 22316676-ff06-44d2-a1cc-0b62c3af0e57))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR032") (unit 1)
         )
@@ -1145,7 +1145,7 @@
     )
     (pin "" (uuid f78e2ce9-c7fa-458d-a912-0cf0ea616051))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR038") (unit 1)
         )
@@ -1175,7 +1175,7 @@
     )
     (pin "" (uuid 2280e67c-54ee-4e39-ac4a-cf1ba8c0a8ca))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR034") (unit 1)
         )
@@ -1272,7 +1272,7 @@
     (pin "1" (uuid b9fa85be-d87c-4510-825c-5d298685e2cb))
     (pin "2" (uuid f194cd63-6deb-4328-9123-eac6628551e9))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "R15") (unit 1)
         )
@@ -1302,7 +1302,7 @@
     )
     (pin "" (uuid fdffd8b0-39a8-4ac9-a4f0-b2fbc8aad6ed))
     (instances
-      (project "EPC_25"
+      (project "ka30gan"
         (path "/2fa95553-e4bc-4555-b37d-4bed2a7cfe1b/b73927a3-d4fb-4903-bb34-b994b384e9b1"
           (reference "#PWR036") (unit 1)
         )

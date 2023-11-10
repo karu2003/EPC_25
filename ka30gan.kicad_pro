@@ -392,7 +392,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "EPC_25.kicad_pro",
+    "filename": "ka30gan.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -495,8 +495,9 @@
   ],
   "text_variables": {
     "PAGESETUP": "Record=PageOptions¦CenterHorizontal=True¦CenterVertical=True¦PrintScale=0.71¦XCorrection=1.00¦YCorrection=1.00¦PrintKind=0¦BorderSize=5000000¦LeftOffset=0¦BottomOffset=0¦Orientation=2¦PaperLength=1000¦PaperWidth=1000¦Scale=100¦PaperSource=7¦PrintQuality=-3¦MediaType=1¦DitherType=10¦PrintScaleMode=1¦PaperKind=A4¦PaperIndex=9",
+    "PCB_REV": "1.0",
     "PRJ_NUMBER": "102023",
-    "PRJ_TITLE": "EPC_25",
+    "PRJ_TITLE": "KA30GAN",
     "SCH_REV": "1.0",
     "SHEETNAME": "Power",
     "SHEETTOTAL": "2"
